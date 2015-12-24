@@ -26,7 +26,7 @@
             double taxRate = myScanner.nextDouble();      //This accepts user input
             taxRate/=100;                                 
     //User enters percent but I want proportion
-    
+    cd.
             double cost$;
             int dollars,                                  //Whole dollar amount of cost
                   dimes, pennies;                         //For storing digits
